@@ -1,0 +1,12 @@
+{
+  "name": "scrum-poker-uce",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Belirsizlik, karmaşıklık ve efor ile Scrum Poker",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
